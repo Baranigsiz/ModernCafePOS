@@ -1,0 +1,22 @@
+## Visual Studio (C# / .NET) Ignore Rules
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## SQL Server / SQLite ignore
+*.db-shm
+*.db-wal
+# pos.db dosyasını GitHub'a göndermiyoruz, hoca açtığında otomatik oluşacak:
+pos.db
+
+## Artifacts and builds
+*.exe
+*.dll
+*.pdb
+*.nupkg
+*.zip
+*.rar
