@@ -6,6 +6,14 @@
 
 ---
 
+## 📸 Arayüz / UI
+
+| Giriş Ekranı (Login) | Masalar (Tables) | Sipariş Ekranı (Order) |
+|:---:|:---:|:---:|
+| ![Login](screenshots/login.png) | ![Tables](screenshots/tables.png) | ![Order](screenshots/order.png) |
+
+---
+
 ## 🔥 Özellikler / Features
 
 | Özellik (Feature) | Açıklama (Description) |
